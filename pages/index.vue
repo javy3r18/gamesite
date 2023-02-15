@@ -116,31 +116,31 @@ main {
 
 .bg-blue:hover {
   background-color: #002861dc;
-  transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.1s;
 }
 
 .bg-red:hover {
   background-color: #6b0000dc;
-  transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.1s;
 }
 
 .bg-yellow:hover {
   background-color: #787006dc;
-  transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.1s;
 }
 
 .bg-green:hover {
   background-color: #003b08dc;
-  transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.1s;
 }
 
 .bg-aqua:hover {
   background-color: #006c6edc;
-  transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.1s;
 }
 
 .bg-purple:hover {
   background-color: #72017adc;
-  transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.1s;
 }
 </style>
